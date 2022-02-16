@@ -1,0 +1,23 @@
+{
+  "name": "readme-gen-hw",
+  "version": "1.0.0",
+  "description": "Create a README file by using a command-line ## Description You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project. ## Getting Started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Topomat20/ReadMe-Gen-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Topomat20/ReadMe-Gen-HW/issues"
+  },
+  "homepage": "https://github.com/Topomat20/ReadMe-Gen-HW#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
