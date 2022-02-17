@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Topomat20/ReadMe-Gen-HW#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "create-readme": "^2.1.3",
+    "inquirer": "^8.2.0",
+    "markdown": "^0.5.0",
+    "util": "^0.12.4"
   }
 }
